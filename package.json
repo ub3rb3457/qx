@@ -1,0 +1,28 @@
+{
+  "name": "@graymatterf0rge/quasar-app-extension-qx",
+  "version": "0.0.1",
+  "description": "cli extension",
+  "author": "ub3rb3457 <perchance2dream86@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.2.0",
+    "inquirer": "^8.2.4",
+    "minimist": "^1.2.6"
+  }
+}
